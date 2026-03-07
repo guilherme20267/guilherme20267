@@ -15,6 +15,9 @@ Compartilhando projetos, estudos e evolução aqui no GitHub.
   <a href="https://www.instagram.com/guilherme_.f._?igsh=aTdzMTR2dDNsNDhi&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-@guilherme_.f._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+   <a href="https://www.linkedin.com/in/guilherme-web">
+  <img src="https://img.shields.io/badge/LinkedIn-Guilherme_Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 ## 🛠️ Tecnologias
