@@ -1,6 +1,6 @@
 # Hi 👋🏻, Im Guilherme Fernandes
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Full Stack`**
 
 Desenvolvedor em aprendizado constante, construindo projetos e evoluindo na programação todos os dias.
 
