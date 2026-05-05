@@ -36,8 +36,8 @@ Compartilhando projetos, estudos e evolução aqui no GitHub.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilherme20267&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme20267&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=guilherme20267&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guilherme20267&layout=compact&theme=tokyonight" />
 </p>
 ---
 
