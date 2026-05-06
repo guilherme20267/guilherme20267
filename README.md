@@ -38,12 +38,6 @@ Compartilhando projetos, estudos e evolução aqui no GitHub.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malucodes&locale=en&layout=compact&card_width=500&langs_count=9&theme=dark&hide_border=false" alt="languages graph" />
-</div>
-
 ## 📊 GitHub Stats
 
 <p align="center">
